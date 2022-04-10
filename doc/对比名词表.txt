@@ -1,0 +1,19 @@
+命名中必须要包含的中文名词【见右】，相对应转换为英文名为：
+卫衣：
+back.png 后件
+forward.png 前件
+hem.png 下摆
+front_bag_cloth.png 袋布
+cuff_l.png 袖口
+cuff_r.png 袖口1
+hat_cloth_l.png 帽布
+hat_cloth_r.png 帽布1
+sleeve_l.png 袖子
+sleeve_r.png 袖子1
+
+短袖
+back.png 后件
+forward.png 前件
+neckline.png 领口
+sleeve.png  袖子
+sleeve1.png 袖子1
